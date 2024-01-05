@@ -7,8 +7,10 @@
 
 本地環境建立:
 1. 建立 virtual env，並在虛擬環境中安裝 google-cloud-aiplatform
+   ```
    pip install virtualenv
    virtualenv <環境名稱>
    <環境名稱>/Scripts: active
    <環境名稱>/Scripts: pip install google-cloud-aiplatform
-2. 將範例程式放到本地端，並使用剛剛建立的虛擬環境執行程式
+   ```
+3. 將範例程式放到本地端，並使用剛剛建立的虛擬環境執行程式
