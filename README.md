@@ -17,3 +17,6 @@ gcloud auth application-default set-quota-project <PROJECT_ID>
    <環境名稱>/Scripts: pip install google-cloud-aiplatform
    ```
 3. 將範例程式放到本地端，並使用剛剛建立的虛擬環境執行程式
+
+[參考文獻]
+1. vertex ai PaLM2: https://cloud.google.com/vertex-ai/docs/generative-ai/model-reference/text
