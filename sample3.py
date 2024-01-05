@@ -4,7 +4,7 @@ import pandas as pd
 
 data = pd.read_csv("Coursera.csv").head(10).to_markdown(index=False)
 prompt = '''
-input: This following table is the dataset about couse. The first row should be the table headers, followed by the corresponding data in each subsequent row and data separated by '|' symbols.
+input: This table contains information about courses. The first row includes the table headers, while each subsequent row displays the corresponding data separated by the "|" symbol.
 {data}
 
 input: {review}
