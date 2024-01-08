@@ -14,7 +14,7 @@ gcloud auth application-default set-quota-project <PROJECT_ID>
    pip install virtualenv
    virtualenv <環境名稱>
    <環境名稱>/Scripts: active
-   <環境名稱>/Scripts: pip install google-cloud-aiplatform, pandas
+   <環境名稱>/Scripts: pip install google-cloud-aiplatform, pandas, tabulate
    
    ```
 3. 將範例程式放到本地端，並使用剛剛建立的虛擬環境執行程式
