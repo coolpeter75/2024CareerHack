@@ -1,7 +1,7 @@
 # 2024CareerHack
 
 本地端建立連線:
-1. 如果要在本地端執行程式，請先安裝 Google colud SDK: https://cloud.google.com/sdk/docs/install
+1. 如果要在本地端執行程式，請先安裝 Google cloud SDK: https://cloud.google.com/sdk/docs/install
 2. 安裝完成後執行指令登入: gcolud auth application-default-login，會開啟瀏覽器，選擇要登入的帳號
 3. 執行指令，選定要使用的專案 ID
 ```
