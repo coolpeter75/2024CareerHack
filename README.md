@@ -13,7 +13,7 @@ gcloud auth application-default set-quota-project <PROJECT_ID>
    ```
    pip install virtualenv
    python -m virtualenv <環境名稱>
-   <環境名稱>/Scripts: active
+   <環境名稱>/Scripts: activate
    <環境名稱>/Scripts: pip install google-cloud-aiplatform, pandas, tabulate
    
    ```
