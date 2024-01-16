@@ -5,6 +5,7 @@
 2. 安裝完成後執行指令登入: gcolud auth application-default-login，會開啟瀏覽器，選擇要登入的帳號
 3. 執行指令，選定要使用的專案 ID
 ```
+gcloud auth application-default login
 gcloud auth application-default set-quota-project <PROJECT_ID>
 ```
 
